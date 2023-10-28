@@ -7,6 +7,14 @@
 ## Final App:
 ![image](https://github.com/AsherHounsell/ECE444-F2023-Lab5/assets/61854862/d82312c3-8089-4a65-90bb-3c6ff756edfb)
 
+## Test Cases for Group Project
+
+I added some test cases for a critical eventForm component in our manage events page, where users can update or create new events.
+This test can be found here: 
+
+Here is a photo of the test cases passing:
+![EventForm test tsx test passed](https://github.com/AsherHounsell/ECE444-F2023-Lab5/assets/61854862/c2010aad-344e-4c00-8235-c7c07ec3e09d)
+
 
 ## Test Driven Development – Pros & Cons:
 Test driven development is a very interesting software development methodology where tests are written before the implementation of the code, I have outlined some of the pros and cons of this method below:
