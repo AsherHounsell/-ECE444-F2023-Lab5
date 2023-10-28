@@ -24,8 +24,6 @@ Pros:
 
 •	Aligns people on the requirements of the code – with specific tests already outlined it is much clearer what actually needs to be implemented by the developer.
 
-•	Forces automation of testing processes.
-
 •	Ensures quality code with clear and thoughtful testing occurring.
 
 •	Ensures that testing process is not rushed because it is completed before development, not at the end when deadlines might be closing and tests could be ignored.
