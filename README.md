@@ -11,6 +11,7 @@
 
 I added some test cases for a critical eventForm component in our manage events page, where users can update or create new events.
 This test can be found here: 
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group1-flask-and-furious/blob/a97d9477f8437226e3017117d95d73faca46a751/__tests__/eventForm.test.tsx
 
 Here is a photo of the test cases passing:
 ![EventForm test tsx test passed](https://github.com/AsherHounsell/ECE444-F2023-Lab5/assets/61854862/c2010aad-344e-4c00-8235-c7c07ec3e09d)
